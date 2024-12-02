@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/portfolio-2.0_g.5/",
+    "build": "vite build --base=/js_110_o-hadalin/",
     "preview": "vite preview"
   },
   "devDependencies": {
